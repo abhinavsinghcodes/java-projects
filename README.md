@@ -16,7 +16,7 @@ Hey there! 🙌 This repo is packed with Java projects that cover a bunch of coo
 
 ## 🚫 FOR ERRORS!
 
-- **You can go to the "Issues Tab" and post a new issue!
+- **You can go to the "Issues Tab" and post a new issue!**
 
 ## 📝 How to Get Started:
 
