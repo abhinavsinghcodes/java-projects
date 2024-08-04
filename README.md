@@ -11,7 +11,6 @@ Hey there! 🙌 This repo is packed with Java projects that cover a bunch of coo
 
 ## 📂 What’s Inside?
 
-- **Java Goodies**: Dive into different Java programs and projects. Each one is a chance to explore something new.
 - **Code Samples**: Check out some neat code snippets and examples to get your brain buzzing.
 
 ## 📝 How to Get Started:
