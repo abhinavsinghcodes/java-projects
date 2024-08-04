@@ -14,6 +14,10 @@ Hey there! 🙌 This repo is packed with Java projects that cover a bunch of coo
 - **Java Programs**: For Classes 10th & 11th for exams and completing notebooks!
 - **Code Samples**: Check out some neat code snippets and examples to get your brain buzzing.
 
+## 🚫 FOR ERRORS!
+
+- **You can go to the "Issues Tab" and post a new issue!
+
 ## 📝 How to Get Started:
 
 1. **Clone or Download**:
