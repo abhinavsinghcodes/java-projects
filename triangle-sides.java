@@ -19,5 +19,10 @@ class index {
 			System.out.println("Scalene triangle");
 		}
 		sc.close();
+	
+		// NOT PART OF PROGRAM - but this adds a dope watermark 🖋
+        watermark wata = new watermark();
+        wata.setVisible(true);
+        // NOT PART OF PROGRAM - watermark ends here
 	}
 }
