@@ -4,15 +4,18 @@ import javax.swing.*;
 public class watermark extends JFrame {
     public watermark() {
         setTitle("Watermark");
-        setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
+        setDefaultCloseOperation(JFrame.DISPOSE_ON_CLOSE);
         setSize(800, 400);
         add(new WatermarkPanel());
         setLocationRelativeTo(null);
         setAlwaysOnTop(true);
 
-        new Timer(3000, e -> setVisible(false)).start(); // Hide window after 3 seconds
+        new Timer(3000, e -> {
+            setVisible(false);
+            System.exit(0);
+        }).start();
     }
-
+    
     public static void main(String[] args) {
         SwingUtilities.invokeLater(() -> {
             watermark wm = new watermark();
